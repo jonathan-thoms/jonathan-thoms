@@ -1,16 +1,16 @@
 # 👋 Hi, I'm Jonathan Thomas Jacob
 
-🎯 Curious Programmer | 🧪 Tech Explorer | 🚀 Still Finding My Niche
+🧪 Curious, Still Finding My Niche
 
 ---
 
 ## 🧠 About Me
 
-I’m a passionate developer still exploring the vast world of programming. I’ve worked across **mobile app development, AI projects, web tech, and even game development** — and I enjoy diving into new languages and domains to expand my skillset.
+Still exploring the vast world of programming. I’ve worked across **mobile app development, AI projects, web tech, and game development** — and I enjoy diving into new languages and domains to expand my skillset.
 
 - 💻 I've built apps using **Flutter**, **React**, and native **Android**
 - 🤖 I've worked on **AI/ML projects** using Python
-- 🎮 Created games using **Godot** and **LÖVE2D**
+- 🎮 Worked with 10+ Game dev teams on projects for itch.io, Roblox and Gamejams
 - 🧩 Still experimenting with new ideas to find what excites me the most
 
 I love building, learning, and occasionally getting lost in a late-night debug spiral 😄
@@ -37,15 +37,15 @@ I love building, learning, and occasionally getting lost in a late-night debug s
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jonathanthomasjacob&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=jonathanthomasjacob&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jonathan-thoms&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=jonathan-thoms&theme=tokyonight" width="48%" />
 </p>
 
 ---
 
 ## 🐍 Snake Activity Graph
 
-![snake gif](https://github.com/jonathanthomasjacob/jonathanthomasjacob/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/jonathan-thoms/jonathan-thoms/blob/output/github-contribution-grid-snake.svg)
 
 > ⚠️ To make this work: you'll need to set up a GitHub Action. I can help you do that if you want!
 
