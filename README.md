@@ -17,8 +17,6 @@ I love building, learning, and occasionally getting lost in a late-night debug s
 
 ---
 
-## 💻 Languages & Tools
-
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -34,7 +32,7 @@ I love building, learning, and occasionally getting lost in a late-night debug s
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jonathan-thoms&show_icons=true&theme=tokyonight" width="48%" />
@@ -42,8 +40,6 @@ I love building, learning, and occasionally getting lost in a late-night debug s
 </p>
 
 ---
-
-## 🐍 Snake Activity Graph
 
 ![snake gif](https://github.com/jonathan-thoms/jonathan-thoms/blob/output/github-contribution-grid-snake.svg)
 
