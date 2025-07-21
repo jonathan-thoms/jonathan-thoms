@@ -47,8 +47,6 @@ I love building, learning, and occasionally getting lost in a late-night debug s
 
 ![snake gif](https://github.com/jonathan-thoms/jonathan-thoms/blob/output/github-contribution-grid-snake.svg)
 
-> ⚠️ To make this work: you'll need to set up a GitHub Action. I can help you do that if you want!
-
 ---
 
 ## 🌐 Let's Connect
