@@ -51,11 +51,6 @@ I love building, learning, and occasionally getting lost in a late-night debug s
 
 ---
 
-## 📂 Pinned Projects
-- 🔗 [**SheMarket** – Flutter marketplace app](https://github.com/yourusername/SheMarket-Flutter)
-- 🧠 [**AI handwriting analysis** – Early Alzheimer’s detection](https://github.com/yourusername/AI-handwriting-analysis)
-- 🎮 [**Critter Hunt** – Multiplayer creature-catching game](https://github.com/yourusername/Critter-Hunt)
-
 > Check out my GitHub repos for open-source projects, experiments, and prototypes!
 
 ---
