@@ -32,15 +32,6 @@ I love building, learning, and occasionally getting lost in a late-night debug s
 
 ---
 
-## 📈 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jonathan-thoms&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=jonathan-thoms&theme=tokyonight" width="48%" />
-</p>
-
----
-
 ![snake gif](https://github.com/jonathan-thoms/jonathan-thoms/blob/output/github-contribution-grid-snake.svg)
 
 ---
