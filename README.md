@@ -13,7 +13,7 @@ Still exploring the vast world of programming. I’ve worked across **mobile app
 - 🎮 Worked with 10+ Game dev teams on projects for itch.io, Roblox and Gamejams
 - 🧩 Still experimenting with new ideas to find what excites me the most
 
-I love building, learning, and occasionally getting lost in a late-night debug spiral 😄
+I love building, learning, and getting lost in debugging 😄
 
 ---
 
